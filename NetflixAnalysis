@@ -2,11 +2,94 @@ Netflix SQL Analysis Project
 
 Total Netflix Titles: 8,807
 
-
-Content Type Distribution: 
+Content Type Distribution:
+--------------------------
 Movies - 6131
 T.V. Shows - 2676
 
-Movies occupy the majority of titles on Netflix, more than double the amount of T.V. shows. 
+Insight: Movies occupy the majority of titles on Netflix, more than double the amount of T.V. shows. 
 
 
+Release Year Trends:
+--------------------
+2018 - 1147
+2017 - 1032
+2019 - 1030
+2020 - 953
+2016 - 902
+2021 - 592
+2015 - 560
+2014 - 352
+2013 - 288
+2012 - 237
+
+Insight: Netflix's peak years of content released ranged from 2016 to 2020, with 2018 having the most with 1,147 titles. 
+
+
+Content Ratings: 
+----------------
+TV-MA - 3207
+TV-14 - 2160
+TV-PG - 863
+R - 799
+PG-13 - 490  
+TV-Y7 - 334
+TV-Y - 307
+PG - 287
+TV-G - 220
+NR - 80
+
+Insight: TV-MA is the most common content rating with 3207 titles, implying that Netflix is focused the most on satisfying their mature audience. 
+         TV-14 is the second highest count at 2160 titles, indicating that Netflix also places a high emphasis on teen/young adult content. 
+
+
+Content Growth (Year to Year): 
+------------------------------
+2008 - 2
+2009 - 2
+2010 - 1
+2011 - 13
+2012 - 3
+2013 - 11
+2014 - 24
+2015 - 82
+2016 - 429
+2017 - 1188
+2018 - 1649
+2019 - 2016
+2020 - 1879
+2021 - 1498
+
+Insight: Netflix's catalog grew noticeably starting in 2016 with the most content being added from 2017 to 2019. 2019 was the peak year with 2,016 added titles but it stabilized out after 2020. 
+
+
+Top Countries: 
+--------------
+United States - 2818
+India - 972
+United Kingdom - 419 
+Japan - 245
+South Korea - 199
+Canada - 181
+Spain - 145
+France - 124
+Mexico - 110
+Egypt - 106
+
+Insight: The United States takes up a majority of the Netflix catalog with 2818 titles, and India being second with 972 titles. The even distribution amongst the other countries indicates that Netflix also wants a prescence outside of the U.S.
+
+
+Top Directors: 
+--------------
+Rajiv Chilaka - 19
+Raul Campos, Jan Suter - 18 
+Suhas Kadav - 16
+Marcus Raboy - 16
+Jay Karas - 14
+Cathy Garcia-Molina - 13
+Youssef Chahine - 12
+Martin Scoresese - 12
+Jay Chapman - 12
+Steven Spielberg - 11
+
+Insight: The top 10 directors all have a similiar range of titles contributed to Netflix, but Rajiv Chilaka has the most with 19 titles.
