@@ -202,7 +202,7 @@ The main objectives of this project were:
 
 1. Open DB Browser for SQLite
 
-2. Load `NetflixTitles.csv`
+2. Load `NetflixTitles.db`
 
 3. Run queries from `NetflixQueries.sql`
 
